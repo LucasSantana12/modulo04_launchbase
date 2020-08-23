@@ -1,0 +1,53 @@
+{
+  "members": [
+    {
+      "id": 1,
+      "avatar_url": "https://images.unsplash.com/photo-1577221084712-45b0445d2b00?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=343&q=80",
+      "name": "Lucas santana",
+      "email": "lukkas_da_silva_santana@hotmail.com",
+      "birth": 1004313600000,
+      "gender": "M",
+      "blood": "A+",
+      "weight": "88",
+      "height": "88"
+    }
+  ],
+  "instructors": [
+    {
+      "id": 1,
+      "name": "Peter Parker",
+      "avatar_url": "https://images.unsplash.com/photo-1577221084712-45b0445d2b00?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=343&q=80",
+      "birth": 1004313600000,
+      "services": "Crossfit, Parkour",
+      "gender": "M",
+      "create_at": 1592861573702
+    },
+    {
+      "id": 2,
+      "name": "Miles Morales",
+      "avatar_url": "https://images.unsplash.com/photo-1526506118085-60ce8714f8c5?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80",
+      "birth": 1004313600000,
+      "services": "Crossfit, musculação, Parkour",
+      "gender": "M",
+      "create_at": 1592861573702
+    },
+    {
+      "id": 3,
+      "name": "Lucas da silva santana",
+      "avatar_url": "https://images.unsplash.com/photo-1580261450046-d0a30080dc9b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=653&q=80",
+      "birth": 972777600000,
+      "services": "Procrastinação",
+      "gender": "M",
+      "create_at": 1598057877774
+    },
+    {
+      "id": 4,
+      "name": "Steve Rogers",
+      "avatar_url": "https://images.unsplash.com/photo-1577221084712-45b0445d2b00?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=343&q=80",
+      "birth": -1413158400000,
+      "services": "Crossfit",
+      "gender": "M",
+      "create_at": 1598119572025
+    }
+  ]
+}

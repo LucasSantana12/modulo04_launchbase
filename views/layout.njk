@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+
+<head>
+
+
+    {% block head %}
+    <title>Gym Manager</title>
+    
+    {%endblock%}
+    <link rel="stylesheet" href="/styles.css">
+</head>
+
+<body>
+    <header>
+        <div class="links">
+            <a href="/instructors" >Instructors</a>
+            <a href="/members">Members</a>
+        </div>
+    </header>
+
+    {% block content %}
+
+    {% endblock %}
+    <script src="/scripts.js"></script>
+</body>
+<script>
+        const formDelete = document.querySelector("#form-delete")
+        formDelete.addEventListener("submit", function(event) {
+          const confirmation = confirm("Deseja Deletar?")
+
+          if(!confirmation){
+          event.preventDefault()
+
+}
+        })
+      </script>
+</html>
